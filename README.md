@@ -2,10 +2,10 @@
 CBNU Open Source Repo
 * Git Test
 
-## 참가자 명단	
-* 소연섭
-* 강산봇  
-* 이연규
+## Contributor List	
+* So HeonSeop
+* 강산bot
+* AndyLee
 
-## 추천프로그램
+## Recommanded Program
 * Gitahead
