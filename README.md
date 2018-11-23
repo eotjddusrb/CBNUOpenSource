@@ -4,7 +4,7 @@ CBNU Open Source Repo
 
 ## Contributor List	
 * So HeonSeop
-* 강산bot
+* Gang San bot
 * AndyLee
 
 ## Recommanded Program
